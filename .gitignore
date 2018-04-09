@@ -1,0 +1,5 @@
+*.pyc
+*.db
+*.bak
+*.pdf
+data/
